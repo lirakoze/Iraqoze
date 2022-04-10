@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Iraqoze
 - 👀 I’m interested in Mobile app development
 - 💞️ I’m looking to collaborate on any project
--    Proficient Native Android Development ||Cross-platform with Xamarin
+-     Proficient Native Android Development ||Cross-platform with Xamarin
 -     C# || Java ||Firebase || SQL
 -     ASP .Net ||Git || REST APIs || Azure || Kotlin || SQL || NoSQL.
 - 📫 How to reach me: iraqoze.lionel@gmail.com / irakoze.lionel@yahoo.com
