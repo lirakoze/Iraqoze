@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on any project
 -     Proficient Native Android Development ||Cross-platform with Xamarin
 -     C# || Java ||Firebase || SQL
--     ASP .Net ||Git || REST APIs || Azure || Kotlin || SQL || NoSQL.
+-     ASP .Net ||Git || REST APIs || Azure || Microservices|| SQL || NoSQL.
 - 📫 How to reach me: iraqoze.lionel@gmail.com / irakoze.lionel@yahoo.com
 
 <!---
