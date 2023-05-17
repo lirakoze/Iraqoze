@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Iraqoze
 - 👀 I’m interested Software Development
-- 💞️ I’m looking to collaborate on any project
 -     Proficient in:
--     Native Android Development 
+-     Backend Development| Native Android Development 
 -     C# || Java ||Firebase || SQL || Docker
 -     ASP .Net ||Git || REST APIs || Azure || .Net Microservices|| SQL || NoSQL.
 - 📫 How to reach me: iraqoze.lionel@gmail.com / irakoze.lionel@yahoo.com
